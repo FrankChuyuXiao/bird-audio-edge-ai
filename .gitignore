@@ -1,4 +1,4 @@
-# Audio dataset
+# Dataset
 audio/
 audio.zip
 
@@ -6,8 +6,12 @@ audio.zip
 __pycache__/
 *.pyc
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Colab files
+# Colab
 sample_data/
+
+# OS files
+.DS_Store
+Thumbs.db
