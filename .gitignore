@@ -1,0 +1,13 @@
+# Audio dataset
+audio/
+audio.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Colab files
+sample_data/
